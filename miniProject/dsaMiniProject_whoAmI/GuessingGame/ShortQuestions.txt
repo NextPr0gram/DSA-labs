@@ -1,0 +1,11 @@
+Q: Is it an animal?
+Q: Can it swim?
+A: fish
+Q: Does it have pointy ears?
+A: vampire bats
+A: lion
+Q: Does it have wheels?
+A: car
+Q: Does it have a nice smell?
+A: flower
+A: socks :D
